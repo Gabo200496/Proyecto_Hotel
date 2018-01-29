@@ -1,0 +1,25 @@
+ body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+
+  .padding-1{
+  	padding: 1%;
+  }
+  .font-logo{
+  	font-family: 'Great Vibes', cursive;
+  }
+  .font-nav{
+
+  	ffont-family: 'Inconsolata', monospace;
+  }
+  .c-index{
+    color:white;
+
+  }
